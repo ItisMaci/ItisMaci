@@ -9,7 +9,6 @@ I am a Computer Science student and passionate about web and software developmen
 - **Currently Learning:** TypeScript, Angular, and C# in my upcoming semester
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/marcel-scheder-41460a353/)   
 - [GitHub](https://github.com/ItisMaci)
 
 Always open to collaborations and new learning opportunities! 🎯
